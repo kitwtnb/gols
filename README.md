@@ -5,5 +5,5 @@
 ## installation
 
 ```
-$ go install github.com/kitwtnb/gols@latest
+$ go get github.com/kitwtnb/gols
 ```
